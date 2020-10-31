@@ -1,5 +1,5 @@
 # React練習
-## react-redux, redux
+## reacthooks
 ### 界接Google Translate API、維基百科API
 
 #### accordion
